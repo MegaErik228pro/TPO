@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.2.32616.157
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calc", "Calc\Calc.csproj", "{DBDF1A66-0138-47FE-846D-D499CF797114}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator", "Calculator\Calculator.csproj", "{A40FBE67-6E6A-4606-A6BD-BE53775AA100}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DBDF1A66-0138-47FE-846D-D499CF797114}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DBDF1A66-0138-47FE-846D-D499CF797114}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DBDF1A66-0138-47FE-846D-D499CF797114}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DBDF1A66-0138-47FE-846D-D499CF797114}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A40FBE67-6E6A-4606-A6BD-BE53775AA100}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A40FBE67-6E6A-4606-A6BD-BE53775AA100}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A40FBE67-6E6A-4606-A6BD-BE53775AA100}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A40FBE67-6E6A-4606-A6BD-BE53775AA100}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A02E35F5-4E05-4C84-874B-0F3BE01255E5}
+	EndGlobalSection
+EndGlobal
