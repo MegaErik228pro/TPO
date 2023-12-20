@@ -1,0 +1,65 @@
+19.12.2023 11:54:14 [INFO] WebDriver initialized.
+19.12.2023 11:54:32 [INFO] Main page opened.
+19.12.2023 12:12:10 [INFO] WebDriver initialized.
+19.12.2023 12:12:10 [INFO] Test 1 started.
+19.12.2023 12:12:30 [INFO] Main page opened.
+19.12.2023 12:12:44 [INFO] Test 1 finished successfully.
+19.12.2023 12:12:44 [INFO] Test 2 started.
+19.12.2023 12:13:03 [INFO] Test 2 finished successfully.
+19.12.2023 12:13:03 [INFO] Test 3 started.
+19.12.2023 12:14:46 [INFO] WebDriver initialized.
+19.12.2023 12:14:46 [INFO] Test 1 started.
+19.12.2023 12:15:04 [INFO] Main page opened.
+19.12.2023 12:15:17 [INFO] Test 1 finished successfully.
+19.12.2023 12:15:17 [INFO] Test 2 started.
+19.12.2023 12:15:34 [INFO] Test 2 finished successfully.
+19.12.2023 12:15:34 [INFO] Test 3 started.
+19.12.2023 12:17:15 [INFO] WebDriver initialized.
+19.12.2023 12:17:15 [INFO] Test 1 started.
+19.12.2023 12:17:34 [INFO] Main page opened.
+19.12.2023 12:17:48 [INFO] Test 1 finished successfully.
+19.12.2023 12:17:48 [INFO] Test 2 started.
+19.12.2023 12:18:06 [INFO] Test 2 finished successfully.
+19.12.2023 12:18:06 [INFO] Test 3 started.
+19.12.2023 12:19:51 [INFO] WebDriver initialized.
+19.12.2023 12:19:51 [INFO] Test 1 started.
+19.12.2023 12:20:10 [INFO] Main page opened.
+19.12.2023 12:20:23 [INFO] Test 1 finished successfully.
+19.12.2023 12:20:23 [INFO] Test 2 started.
+19.12.2023 12:20:42 [INFO] Test 2 finished successfully.
+19.12.2023 12:20:42 [INFO] Test 3 started.
+19.12.2023 12:21:04 [INFO] Test 3 finished successfully.
+19.12.2023 12:30:09 [INFO] WebDriver initialized.
+19.12.2023 12:30:09 [INFO] Test 1 started.
+19.12.2023 12:30:29 [INFO] Main page opened.
+19.12.2023 12:30:42 [INFO] Test 1 finished successfully.
+19.12.2023 12:30:42 [INFO] Test 2 started.
+19.12.2023 12:30:56 [INFO] Main page opened.
+19.12.2023 12:31:01 [INFO] Test 2 finished successfully.
+19.12.2023 12:31:01 [INFO] Test 3 started.
+19.12.2023 12:31:15 [INFO] Main page opened.
+19.12.2023 12:31:26 [INFO] Test 3 finished successfully.
+19.12.2023 12:31:26 [INFO] Test 4 started.
+19.12.2023 12:32:03 [INFO] WebDriver initialized.
+19.12.2023 12:32:03 [INFO] Test 1 started.
+19.12.2023 12:32:39 [INFO] Main page opened.
+19.12.2023 12:32:52 [INFO] Test 1 finished successfully.
+19.12.2023 12:32:52 [INFO] Test 2 started.
+19.12.2023 12:33:06 [INFO] Main page opened.
+19.12.2023 12:33:08 [INFO] Test 3 started.
+19.12.2023 12:33:24 [INFO] Main page opened.
+19.12.2023 12:33:44 [INFO] Test 3 finished successfully.
+19.12.2023 12:33:44 [INFO] Test 4 started.
+19.12.2023 12:34:53 [INFO] WebDriver initialized.
+19.12.2023 12:34:53 [INFO] Test 1 started.
+19.12.2023 12:35:13 [INFO] Main page opened.
+19.12.2023 12:35:26 [INFO] Test 1 finished successfully.
+19.12.2023 12:35:26 [INFO] Test 2 started.
+19.12.2023 12:35:39 [INFO] Main page opened.
+19.12.2023 12:35:43 [INFO] Test 2 finished successfully.
+19.12.2023 12:35:43 [INFO] Test 3 started.
+19.12.2023 12:35:57 [INFO] Main page opened.
+19.12.2023 12:36:07 [INFO] Test 3 finished successfully.
+19.12.2023 12:36:07 [INFO] Test 4 started.
+19.12.2023 12:36:20 [INFO] Main page opened.
+19.12.2023 12:36:28 [INFO] Test 4 finished successfully.

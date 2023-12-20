@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Erik\\Desktop\\3 курс\\TPO\\ЛАБ9\\Lab9t\\Lab9t\\Lab9t.csproj": {}
+    "C:\\Users\\Erik\\Desktop\\3course\\TPO\\ЛАБ9-10\\Lab9t\\Lab9t\\Lab9t.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Erik\\Desktop\\3 курс\\TPO\\ЛАБ9\\Lab9t\\Lab9t\\Lab9t.csproj": {
+    "C:\\Users\\Erik\\Desktop\\3course\\TPO\\ЛАБ9-10\\Lab9t\\Lab9t\\Lab9t.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Erik\\Desktop\\3 курс\\TPO\\ЛАБ9\\Lab9t\\Lab9t\\Lab9t.csproj",
+        "projectUniqueName": "C:\\Users\\Erik\\Desktop\\3course\\TPO\\ЛАБ9-10\\Lab9t\\Lab9t\\Lab9t.csproj",
         "projectName": "Lab9t",
-        "projectPath": "C:\\Users\\Erik\\Desktop\\3 курс\\TPO\\ЛАБ9\\Lab9t\\Lab9t\\Lab9t.csproj",
+        "projectPath": "C:\\Users\\Erik\\Desktop\\3course\\TPO\\ЛАБ9-10\\Lab9t\\Lab9t\\Lab9t.csproj",
         "packagesPath": "C:\\Users\\Erik\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Erik\\Desktop\\3 курс\\TPO\\ЛАБ9\\Lab9t\\Lab9t\\obj\\",
+        "outputPath": "C:\\Users\\Erik\\Desktop\\3course\\TPO\\ЛАБ9-10\\Lab9t\\Lab9t\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Erik\\AppData\\Roaming\\NuGet\\NuGet.Config",
